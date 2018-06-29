@@ -1,0 +1,46 @@
+Gold Standard: 
+RT008 RT009 RT011 RT003 RT004 RT005 RT006 RT014 RT021 RT016 RT001 RT007 RT012 RT013 RT002 RT015 RT010 RT019 RT020 RT017 RT018 
+
+Disagreement with GS: 
+23	19	24	24	24	
+
+Average Distance with GS: 
+1.9047619	1.6190476	1.9047619	2.0	1.9047619	
+
+
+
+
+Elicited pairs list: 
+RT011 RT021
+RT008 RT011
+RT003 RT011
+RT003 RT008
+RT003 RT009
+
+
+
+Final Ordering: 
+RT3 RT8 RT11 RT21 RT9 RT4 RT6 RT5 RT14 RT7 RT2 RT16 RT1 RT10 RT15 RT12 RT13 RT20 RT19 RT18 RT17 
+RT3 RT8 RT9 RT11 RT21 RT4 RT6 RT5 RT14 RT7 RT2 RT16 RT1 RT10 RT15 RT12 RT13 RT19 RT20 RT17 RT18 
+RT3 RT8 RT11 RT9 RT21 RT4 RT6 RT5 RT2 RT14 RT7 RT16 RT1 RT10 RT15 RT12 RT13 RT20 RT19 RT18 RT17 
+RT3 RT8 RT11 RT21 RT9 RT4 RT6 RT5 RT7 RT14 RT2 RT16 RT1 RT10 RT15 RT12 RT13 RT20 RT19 RT18 RT17 
+RT3 RT8 RT11 RT21 RT9 RT4 RT6 RT5 RT2 RT14 RT7 RT16 RT1 RT10 RT15 RT12 RT13 RT19 RT20 RT18 RT17 
+
+Error pairs (wrongly decided by the user):
+RT003 RT011
+RT003 RT008
+RT003 RT009
+
+
+Total pairs elicited by the user: 5
+Number of pairs elicited wrongly by the user: 3
+Percentage/probability of user error: 60.0
+
+Total Prioritization time: 10.12s
+Total duration of elicitation session: 5.931999921798706s
+Minimum elicitation time for a pair: 0.957s
+Maximum elicitation time for a pair: 1.523s
+Average elicitation time for all pairs: 1.1864s
+
+
+FBK IRST, CIT!!!

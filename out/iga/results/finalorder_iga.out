@@ -1,0 +1,21 @@
+1: RT009 {The system identify if a patient remains immobile for a long time}
+2: RT021 {The system can monitor the biological parameters of the patient}
+3: RT011 {The system identifies sounds in the room}
+4: RT002 {The system identifies the identity of the persons in the scene}
+5: RT008 {The system identifies the differences in the posture of the patient}
+6: RT005 {The system identifies the exact position of a person with respect to some objects (static or dynamic)}
+7: RT003 {The system identifies the exact coordinates of the person in the center}
+8: RT006 {The system identifies the trajectory of a person in the center}
+9: RT007 {The system identifies the area of the center a patient is used to stay}
+10: RT016 {The system logs the info related to a particular event (videos, communications)}
+11: RT015 {The system identifies the role that has the responsibility to manage the event}
+12: RT014 {The system infers the kind of event based on the available information}
+13: RT001 {The system identifies the role of the persons in the scene (healthcare operator, doctor, patient)}
+14: RT010 {The system learns the way of life of the patients}
+15: RT019 {The authorized operator can access the infos of a patient directly browsing the reports from the PC}
+16: RT017 {The operator can browse the working schedule for a given day}
+17: RT020 {The authorized operator can access to the infos of a patient also from other devices (such as mobile p.c.)}
+18: RT018 {The operator can manually modify the fields for the report at the and of the working time}
+19: RT013 {The system minimizes the intersection between the areas monitored by the operators}
+20: RT004 {The system identifies the exact position of a person with respect to some given points}
+21: RT012 {The system subdivides the center in areas under the control of an operator}

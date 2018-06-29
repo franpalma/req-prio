@@ -1,0 +1,15 @@
+Elicited pair	Wrong???	Eli_Time(in Sec)	Cumulative_Eli_Time(in Sec)
+RT021 RT012		no			1.456					1.456
+RT016 RT012		no			0.978					2.434
+RT002 RT012		yes			0.928					3.362
+RT008 RT012		no			0.831					4.193
+RT005 RT012		no			0.802					4.994999999999999
+
+
+Session details for the Elicited Pairs: 
+
+
+Session: 1
+RT012RT021	RT012RT016	RT012RT002	RT012RT008	RT012RT005			5.979000091552734
+
+***{Pairs elicited in each session} [\t] {Total time (in sec.) for that session}

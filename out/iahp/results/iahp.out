@@ -1,0 +1,39 @@
+
+Gold Standard: 
+RT008 RT009 RT011 RT003 RT004 RT005 RT006 RT014 RT021 RT016 RT001 RT007 RT012 RT013 RT002 RT015 RT010 RT019 RT020 RT017 RT018 
+
+>INCOMPLETE-AHP PRIORITIZATION<
+
+Final Ordering: 
+RT009 RT015 RT004 RT012 RT001 RT013 RT008 RT011 RT006 RT005 RT016 RT007 RT020 RT003 RT019 RT014 RT021 RT010 RT002 RT017 RT018 
+
+Disagreement with GS: 65
+
+Average Distance with GS: 4.6666665
+
+Pairs decided by the user: 
+RT013 RT001
+RT001 RT012
+RT012 RT004
+RT004 RT009
+RT009 RT015
+
+Error pairs (wrongly decided by the user):
+RT013 RT001
+RT012 RT004
+RT004 RT009
+
+
+
+Total pairs elicited by the user: 5
+Number of pairs elicited wrongly by the user: 3
+Percentage/probability of user error: 60.0
+
+Total Prioritization time: 13.326s
+Total duration of elicitation session: 12.062000036239624s
+Minimum elicitation time for a pair: 2.075s
+Maximum elicitation time for a pair: 3.11s
+Average elicitation time for all pairs: 2.4124s
+
+
+FBK IRST, CIT!!!

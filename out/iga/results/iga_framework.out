@@ -1,0 +1,39 @@
+
+>GOLD STANDARD<
+
+RT008 RT009 RT011 RT003 RT004 RT005 RT006 RT014 RT021 RT016 RT001 RT007 RT012 RT013 RT002 RT015 RT010 RT019 RT020 RT017 RT018 
+
+
+Pairs decided by the user: 
+RT021 RT012
+RT016 RT012
+RT002 RT012
+RT008 RT012
+RT005 RT012
+
+
+>INTERACTIVE GENETIC PRIORITIZATION<
+
+RT009 RT021 RT011 RT002 RT008 RT005 RT003 RT006 RT007 RT016 RT015 RT014 RT001 RT010 RT019 RT017 RT020 RT018 RT013 RT004 RT012 	[AD_GS 4.0 ]	[DIS_GS 54 ]
+
+>PRIORITIZATION FRAMEWORK<
+
+[AD_IGA]	[DIS_IGA]
+4.0	54
+
+Error pairs (wrongly decided by the user):
+RT002 RT012
+
+
+Total pairs elicited by the user: 5
+Number of pairs elicited wrongly by the user: 1
+Percentage/probability of user error: 20.0
+
+Total Prioritization time: 14.649s
+Total duration of elicitation session: 4.995000123977661s
+Minimum elicitation time for a pair: 0.802s
+Maximum elicitation time for a pair: 1.456s
+Average elicitation time for all pairs: 0.999s
+
+
+FBK IRST, CIT!!!

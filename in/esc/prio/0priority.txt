@@ -1,0 +1,23 @@
+RT001	10	The system monitors the public areas of the center
+RT002	10	The system monitors, via sensors, the external area of the centers (gardens, gate)
+RT003	10	The system identifies the presence of a person in a given area
+RT004	15	The system identifies the role of the persons in the scene (healthcare operator, doctor, patient)
+RT005	15	The system identifies the identity of the persons in the scene
+RT006	10	The system identifies the exact coordinates of the person in the center
+RT007	10	The system identifies the distance between the patient and the nearest healthcare operator
+RT008	15	The system identifies the differences in the posture of the patient
+RT009	15	The system identifies a patient exiting from the monitored area
+RT010	30	The system subdivides the center in areas under the control of an operator
+RT011	30	The system minimizes the intersection between the areas monitored by the operators
+RT012	10	The system verifies that the patients are all in the observed area
+RT013	15	The system notifies the operator in the competence area
+RT014	40	An operator can accept or deny a call
+RT015	30	The system is able to find the nearest operator to a given point in the center
+RT016	20	The system infers the kind of event based on the available information
+RT017	20	The system associates a gravity level to the event
+RT018	30	The system identifies the role that has the responsibility to manage the event
+RT019	30	The system logs the info related to a particular event (videos, communications)
+RT020	40	The operator can ask for the position of another operator
+RT021	50	The operator can ask for the intervention of the nearest operator whit respect to an event
+RT022	50	The operator can ask for an authorization to perform special interventions to the patients
+RT023	50	A user can give an authorization to perform special interventions to other operators

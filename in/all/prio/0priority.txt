@@ -1,0 +1,49 @@
+RT001	10	The system monitors the private rooms of the center
+RT002	10	The system monitors the public areas of the center
+RT003	10	The system monitors the external area of the center (gardens, gates)
+RT004	30	The system uses the set of sensors as a single multifunctional sensor exploiting reasoning and abstraction
+RT005	200	The system is able to adapt to the change of sensors in the sensor network
+RT006	10	The system identifies the presence of a person in a given area
+RT007	40	The system identifies the role of the persons in the scene (healthcare operator, doctor, patient)
+RT008	60	The system identifies the identity of the persons in the scene
+RT009	10	The system identifies the exact coordinates of the person in the center
+RT010	20	The system identifies the exact position of a person with respect to some given points
+RT011	20	The system identifies the exact position of a person with respect to some objects (static or dynamic)
+RT012	200	The system identifies the area of the center in an approximated manner
+RT013	20	The system identifies the trajectory of a person in the center
+RT014	70	The system identifies the area of the center a patient is used to stay
+RT015	20	The system identifies the distance between the patient and the nearest healthcare operator
+RT016	30	The system identifies the differences in the posture of the patient
+RT017	30	The system identify if a patient remains immobile for a long time
+RT018	30	The system learns the way of life of the patients
+RT019	30	The system identifies a patient exiting from the monitored area
+RT020	60	The system identifies if a patient is exiting form a room
+RT021	30	The system identifies sounds in the room
+RT022	50	The system subdivides the center in areas under the control of an operator
+RT023	50	The system minimizes the intersection between the areas monitored by the operators
+RT024	10	The system verifies that the patients are all in the observed area
+RT025	30	The system notifies the operator in the competence area
+RT026	60	An operator can accept or deny a call
+RT027	60	The system is able to find the nearest operator to a given point in the center
+RT028	80	The system infers the kind of event based on the available information
+RT029	40	The system associates a gravity level to the event
+RT030	50	The system identifies the role that has the responsibility to manage the event
+RT031	30	The system logs the info related to a particular event (videos, communications)
+RT032	90	The system logs missing infos for the given event
+RT033	90	The operator can ask for the position of a patient
+RT034	90	The operator can ask for the position of another operator
+RT035	100	The operator can ask for the intervention of the nearest operator whit respect to an event
+RT036	160	The operator can browse the working schedule for a given day
+RT037	170	The operator can check a report produced by the system
+RT038	170	The system inserts the validated report into the report at the and of the working time
+RT039	160	The operator can manually modify the fields for the report at the and of the working time
+RT040	160	The operator can fill the report with missing infos
+RT041	150	The authorized operator can access the infos of a patient directly browsing the reports from the PC
+RT042	150	The authorized operator can access to the infos of a patient also from other devices (such as mobile p.c.)
+RT043	180	The operator can ask for an authorization to perform special interventions to the patients
+RT044	200	A user can give an authorization to perform special interventions to other operators
+RT045	200	The system can block the automatic opening of doors on the bases of a particular critical context
+RT046	200	The system can adapt itself to work to different environmental conditions
+RT047	30	The system can monitor the biological parameters of the patient
+RT048	170	The system can extract crucial events from the daily report
+RT049	30	The operator can communicate the system the execution of an activity
